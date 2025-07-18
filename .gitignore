@@ -1,0 +1,17 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets and temp files
+# *.csv
+*.wav
+*.npy
+*.h5
+*.pt
+*.pkl
+
+# Ignore cache and other unwanted files
+__pycache__/
+*.pyc
+.DS_Store
+
+CombinedDataset/
