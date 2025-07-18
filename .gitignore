@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Ignore datasets and temp files
-# *.csv
+*.csv
 *.wav
 *.npy
 *.h5
